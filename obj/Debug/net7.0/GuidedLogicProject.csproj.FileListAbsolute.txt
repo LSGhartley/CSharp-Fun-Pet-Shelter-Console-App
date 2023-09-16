@@ -1,0 +1,14 @@
+C:\Users\leseg\Desktop\PORTFOLIO ME\C#\CProjects\GuidedLogicProject\bin\Debug\net7.0\GuidedLogicProject.exe
+C:\Users\leseg\Desktop\PORTFOLIO ME\C#\CProjects\GuidedLogicProject\bin\Debug\net7.0\GuidedLogicProject.deps.json
+C:\Users\leseg\Desktop\PORTFOLIO ME\C#\CProjects\GuidedLogicProject\bin\Debug\net7.0\GuidedLogicProject.runtimeconfig.json
+C:\Users\leseg\Desktop\PORTFOLIO ME\C#\CProjects\GuidedLogicProject\bin\Debug\net7.0\GuidedLogicProject.dll
+C:\Users\leseg\Desktop\PORTFOLIO ME\C#\CProjects\GuidedLogicProject\bin\Debug\net7.0\GuidedLogicProject.pdb
+C:\Users\leseg\Desktop\PORTFOLIO ME\C#\CProjects\GuidedLogicProject\obj\Debug\net7.0\GuidedLogicProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leseg\Desktop\PORTFOLIO ME\C#\CProjects\GuidedLogicProject\obj\Debug\net7.0\GuidedLogicProject.AssemblyInfoInputs.cache
+C:\Users\leseg\Desktop\PORTFOLIO ME\C#\CProjects\GuidedLogicProject\obj\Debug\net7.0\GuidedLogicProject.AssemblyInfo.cs
+C:\Users\leseg\Desktop\PORTFOLIO ME\C#\CProjects\GuidedLogicProject\obj\Debug\net7.0\GuidedLogicProject.csproj.CoreCompileInputs.cache
+C:\Users\leseg\Desktop\PORTFOLIO ME\C#\CProjects\GuidedLogicProject\obj\Debug\net7.0\GuidedLogicProject.dll
+C:\Users\leseg\Desktop\PORTFOLIO ME\C#\CProjects\GuidedLogicProject\obj\Debug\net7.0\refint\GuidedLogicProject.dll
+C:\Users\leseg\Desktop\PORTFOLIO ME\C#\CProjects\GuidedLogicProject\obj\Debug\net7.0\GuidedLogicProject.pdb
+C:\Users\leseg\Desktop\PORTFOLIO ME\C#\CProjects\GuidedLogicProject\obj\Debug\net7.0\GuidedLogicProject.genruntimeconfig.cache
+C:\Users\leseg\Desktop\PORTFOLIO ME\C#\CProjects\GuidedLogicProject\obj\Debug\net7.0\ref\GuidedLogicProject.dll
